@@ -1,4 +1,4 @@
-# 🛡️ Preinstall Guardian
+# Preinstall Guardian
 
 **Protect your project from malicious npm install scripts**
 
